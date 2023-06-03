@@ -1,0 +1,1 @@
+Practice lifting state and using it in the same component to show different information using JS.
